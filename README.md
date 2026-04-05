@@ -4,6 +4,9 @@
 
 The application allows you to select COM ports, detect the FlexControl, start a serial bridge, and control frequency tuning, step size, PTT, and VFO lock.
 
+
+![screenshot](https://github.com/user-attachments/assets/6da090c2-6cd8-4d6d-878b-24024f3b2f7a)
+
 ---
 
 ## Features
