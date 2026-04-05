@@ -32,7 +32,3 @@ The application allows you to select COM ports, detect the FlexControl, start a 
 
 Download the Windows executable from the GitHub **Releases** section.
 
-Example file:
-
-```text
-PA3EKE FlexControl Bridge.exe
